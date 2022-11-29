@@ -7,7 +7,7 @@
 
 #include "can_cli.h"
 #include <stddef.h>
-#include <strings.h>
+#include <string.h>
 
 /* ----------- FUNCTIONS ------------------- */
 
